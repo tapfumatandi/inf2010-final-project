@@ -1,0 +1,62 @@
+﻿body{
+	background-image:url("https://ak3.picdn.net/shutterstock/videos/7596463/thumb/1.jpg?i10c=img.resize(height:160)");
+	
+}
+
+p{
+	font-family:"Times New Roman", Times, serif;
+	font-style oblique;
+	color: white;	
+}
+h1{
+	font-family:"Times New Roman", Times, serif;
+	color: white;
+}
+h2{
+	font-family:"Times New Roman", Times, serif;
+	color: white;
+	
+}
+h4{
+	font-family:"Times New Roman", Times, serif;
+	color: white;
+	
+}
+h3{
+	font-family:"Times New Roman", Times, serif;
+	color: white;
+	
+}
+h5{
+	font-family:"Times New Roman", Times, serif;
+	color: white;
+	
+}
+ol{
+	font-family:"Times New Roman", Times, serif;
+	color: white;
+	}
+img.resize{
+   width:250px;
+   height:250px;
+}
+/*img.resize{
+   max-width:50%;
+   max-height:50%;
+}*/
+ul
+{
+    margin: 20px;
+    padding: 20px;
+    list-style: none;
+    height: 93px;
+}
+
+ul li
+{
+    display: inline-block;
+    width: 90x;
+    height: 93px;
+    text-align: center;
+    /*vertical-align: middle;*/
+}
